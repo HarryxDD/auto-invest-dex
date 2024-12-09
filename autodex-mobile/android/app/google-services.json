@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "702724926462",
+    "project_id": "autodex-e3edc",
+    "storage_bucket": "autodex-e3edc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702724926462:android:04c48ad59ed17d6cf26eaf",
+        "android_client_info": {
+          "package_name": "com.autodex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrojwGnXSrDVc8hURlkF_IS3t-Qlj-fco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
